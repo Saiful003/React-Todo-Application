@@ -1,0 +1,7 @@
+.addedTodoMsg {
+  padding: 10px;
+  font-weight: 600;
+  margin-bottom: 1em;
+  border-left: 3px solid green;
+  background-color: rgb(88, 152, 235);
+}

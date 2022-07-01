@@ -1,0 +1,12 @@
+.getTodo {
+  padding: 15px 10px;
+  flex-basis: 75%;
+  border-radius: 3px;
+  border: none;
+  margin-bottom: 1em;
+}
+
+.getTodo:focus {
+  outline: 1px solid #fff;
+  border: none;
+}

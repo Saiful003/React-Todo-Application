@@ -1,0 +1,22 @@
+.paragraph {
+  color: #3d3d3d;
+  padding: 8px 10px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+}
+.deletedTodoMsg {
+  padding: 10px 8px;
+  font-weight: 600;
+  margin: 5px 0;
+  border-left: 5px solid rgb(255 255 255);
+  background-color: #ff5656;
+  color: #fff;
+}
+.delete__icon {
+  display: flex;
+  gap: 18px;
+}

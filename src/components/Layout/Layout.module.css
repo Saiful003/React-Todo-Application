@@ -1,0 +1,15 @@
+.container {
+  width: 90%;
+  height: 500px;
+  max-width: 800px;
+  padding: 10px 17px;
+  background: #2d3436;
+  border-radius: 5px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+.todo__title {
+  text-align: center;
+  margin: 0.8em 0;
+  color: #fff;
+}
